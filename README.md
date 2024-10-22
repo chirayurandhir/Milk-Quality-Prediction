@@ -1,4 +1,4 @@
-Milk Quality Prediction: A Multiclass Classification Approach
+# Milk Quality Prediction: A Multiclass Classification Approach
 
 This project focuses on predicting the quality of milk using machine learning models. By analyzing various attributes of milk such as **pH**, **temperature**, **odor**, and more, this project builds a multiclass classification model to categorize milk quality into **high**, **medium**, and **low** classes.
 
@@ -19,7 +19,7 @@ The dataset includes the following milk attributes:
 - **Color**
 - **Grade**
 
-Workflow
+## Workflow
 1. **Exploratory Data Analysis (EDA):**
    - Data Overview: Basic statistics, handling missing values, and identifying data types.
    - Univariate and Bivariate Analysis: Understanding individual features and their relationships using visualizations such as histograms, scatter plots, and correlation matrices.
